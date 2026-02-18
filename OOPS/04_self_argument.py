@@ -6,4 +6,4 @@ class Chaicup:
     
 cup = Chaicup()
 print(cup.describe())
-print(Chaicup.describe())
+print(Chaicup.describe(cup))
